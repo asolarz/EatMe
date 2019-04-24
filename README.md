@@ -5,8 +5,8 @@ EatMe
 ## Feauters
 
 - Android Canvas game
-- accelerometer control
-- Database suport
-- offline ranking
-- variable difficulty level
-- collision detection
+- Accelerometer control
+- Database support
+- Offline ranking
+- Variable difficulty level
+- Collision detection
