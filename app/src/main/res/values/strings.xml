@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gyroscope Game</string>
+    <string name="your_score">Twój wynik: </string>
+</resources>
