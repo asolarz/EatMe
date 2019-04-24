@@ -9,4 +9,4 @@ EatMe
 - Database suport
 - offline ranking
 - variable difficulty level
-![photo](https://github.com/asolarz/EatMe/blob/master/sample.png)
+- collision detection
